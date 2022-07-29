@@ -7,6 +7,8 @@ This library is a fork of `python-daemon <https://github.com/serverdensity/pytho
 
 Install
 -------
+Tested on Python 3.0+, there is no dependencies.
+
 .. code-block:: bash
     
     pip install servd
